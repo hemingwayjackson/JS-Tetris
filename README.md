@@ -1,2 +1,2 @@
 # TetrisJS
-# JS-Tetris
+# A project to learn modern JS
